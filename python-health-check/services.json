@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "name": "nginx",
+      "url": "http://localhost"
+    },
+    {
+      "name": "local-test-app",
+      "url": "http://localhost:8080"
+    }
+  ]
+}
