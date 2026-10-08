@@ -1,1 +1,12 @@
+# Terraform working files and state
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Generated health-check output
 python-health-check/health-results.json
+
+# Python-generated files
+__pycache__/
+*.pycpython-health-check/health-results.json
